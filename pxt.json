@@ -1,0 +1,21 @@
+{
+    "name": "pxt-repeticao-personalizada",
+    "version": "0.0.0",
+    "description": "Bloco personalizado de repetição (for) com valor inicial, limite e passo, para o micro:bit.",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "custom.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
